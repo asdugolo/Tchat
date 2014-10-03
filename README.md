@@ -1,0 +1,1 @@
+[ ![Codeship Status for asdugolo/Tchat](https://codeship.io/projects/0011f150-2d61-0132-542a-6af74960b8b5/status)](https://codeship.io/projects/39210)
