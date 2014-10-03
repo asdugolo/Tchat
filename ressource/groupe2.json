@@ -1,0 +1,84 @@
+{
+  "groupe":[
+    {
+      "name": "Joel Andrezejczak",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Caroline Blaszczyk",
+      "color": "#5677FC",
+      "photo": "none"
+    },
+    {
+      "name": "Gregory Boudringhin",
+      "color": "#ff9800",
+      "photo": "none"
+    },
+    {
+      "name": "Emeline Cinquemani",
+      "color": "#f50057",
+      "photo": "none"
+    },
+    {
+      "name": "Maxime Crepin",
+      "color": "#f50057",
+      "photo": "none"
+    },
+    {
+      "name": "Timoté Harbonnier",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Enzo Hersoen",
+      "color": "#5677FC",
+      "photo": "none"
+    },
+    {
+      "name": "Quinlun Huang",
+      "color": "#ff9800",
+      "photo": "none"
+    },
+    {
+      "name": "Félix Jegu",
+      "color": "#f50057",
+      "photo": "none"
+    },
+    {
+      "name": "Jonathan Leblois",
+      "color": "#f50057",
+      "photo": "none"
+    },
+    {
+      "name": "Sami Leroy",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Ewan Maleszka",
+      "color": "#5677FC",
+      "photo": "none"
+    },
+    {
+      "name": "Grégory Piot",
+      "color": "#ff9800",
+      "photo": "none"
+    },
+    {
+      "name": "Antoine Pontus",
+      "color": "#f50057",
+      "photo": "none"
+    },
+    {
+      "name": "Marion Soulisse",
+      "color": "#f50057",
+      "photo": "none"
+    },
+    {
+      "name": "Kiara Tenza",
+      "color": "#f50057",
+      "photo": "none"
+    }
+  ]
+}

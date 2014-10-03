@@ -1,0 +1,74 @@
+{
+  "groupe":[
+    {
+      "name": "Luc Beaugrand",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Théophile Bette",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Juliette Cot",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Romain Douale",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Baptiste Duchêne",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Axel Dumaine",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Antoine Fontana",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "André Haultcoeur",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Pierre Josefowicz",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Claire Merlin",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Etienne Piskorski",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Amélie Quegnet",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Alexandre Robinne",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Grégoire Turpin",
+      "color": "#8BC34A",
+      "photo": "none"
+    }
+  ]
+}

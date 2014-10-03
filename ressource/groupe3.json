@@ -1,0 +1,74 @@
+{
+  "groupe":[
+    {
+      "name": "Alexandre Bastien",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Louis Beharelle",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Jérémy Bultez",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Guillaume Ciesielski",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Mathilde Aicha Diop",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Alexis Duhem",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Hakan Dumlu",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Nicolas Fiquet",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Vincent Kean",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Alexis Lebas",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Noemie Mattlinger",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Marine Mulumba",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Hugo Pette",
+      "color": "#8BC34A",
+      "photo": "none"
+    },
+    {
+      "name": "Sébastien Thuin",
+      "color": "#8BC34A",
+      "photo": "none"
+    }
+  ]
+}
