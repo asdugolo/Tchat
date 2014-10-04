@@ -45,8 +45,13 @@ httpServer = http.createServer(function(req, res){
 	}
 
 });
+
+var ipaddr = process.env.OPENSHIFT_NODE_JS || "127.0.0.1";
+var port = process.env.OPENSHIFT_NODEJS_PORT || 1337;
 	
-httpServer.listen(1337);
+httpServer.listen(port, ipaddr);
+
+
 
 var io = require ('socket.io').listen(httpServer);
 var users = {};
